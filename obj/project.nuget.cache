@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NhPol9LKl2w9B2/8ES9N0+FyIDOrErkyCN9MpKvtGAr8ZspITO59kpGAfvWQaA1zRJomR6jfZhbK1OOzRTXbfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mohd88433\\OneDrive - Mastek Limited\\Documents\\API\\WeatherAPI\\WeatherAPI\\WeatherAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mohd88433\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mohd88433\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
